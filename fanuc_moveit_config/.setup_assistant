@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/roboticme/ws_moveit/src/urdf_files_dataset/urdf_files/ros-industrial/xacro_generated/fanuc/fanuc_m710ic_support/urdf/m710ic45m.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/fanuc_m710ic45m.srdf
+  CONFIG:
+    author_name: fanuc_moveit
+    author_email: fanuc_moveit@gmail.com
+    generated_timestamp: 1716678941
